@@ -3,7 +3,7 @@ Using A_Star and UCS Algorithms to reach from Arad to Bucharest in the Romanian 
 
 **City co-ordinates:**
 
-*Arad 29 192
+Arad 29 192
 
 Bucharest 268 55
 
@@ -46,7 +46,9 @@ Zerind 44 225
 **Heuristics:**
 
 Arad 366
+
 Bucharest 0
+
 Craiova 160
 
 Dobreta 242

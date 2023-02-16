@@ -3,7 +3,8 @@ Using A_Star and UCS Algorithms to reach from Arad to Bucharest in the Romanian 
 
 City co-ordinates:
 
--Arad 29 192
+*Arad 29 192
+
 -Bucharest 268 55
 -Craiova 163 22
 -Dobreta 91 32
